@@ -1,7 +1,7 @@
-title: Long Haul
+title: Madhur Anand
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://shutdownkiya.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: really
    url: /index.html
- - title: About
+ - title: whoami
    url: /about
- - title: Contact
+ - title: lala
    url: /contact
 
 social:
    github: brianmaierjr
    twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   facebook: madhur.rover
+   email: madhuranand@live.in
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
